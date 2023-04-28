@@ -57,4 +57,14 @@ concentrate on what <b>you</b> think matters.
 <img src="https://github.com/Taylor-Blythe/AboutMe/blob/main/img/shouhei.jpg" height="100px" width="200px">
   </kbd><br>
 
+## Favorite Terms
+
+| Terms| Definitions | My Meaning 
+|:-|:----:| ---:|
+| Vivid | Powerful, intensice color; Clear precise language | Invoking strong emotion in | 
+| Oriflamme | A knight's battle standard | Your logo , icon | 
+| Eccentirc | Of unconvential and slightly strange character | Someone who is odd but cool | 
+| Supine | lying face upward; failing to act | other term for coward |
+
+
 Markdown Tutorial
