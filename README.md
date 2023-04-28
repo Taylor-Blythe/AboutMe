@@ -13,9 +13,9 @@ Hobbies
 
 My Hobbies Include
 
--gaming
-+reading
-=airsoft
+- gaming
++ reading
+= airsoft
 
 
 
