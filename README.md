@@ -28,4 +28,11 @@ My nightime routine includes:
 *It's not about intellegence, it's all about persistance*
 
 _life is is easy if you just let it happen_
+
+## Favorite Quotes
+
+concentrate on what **you** think matters.
+
+__what are you__ in this life?
+
 Markdown Tutorial
