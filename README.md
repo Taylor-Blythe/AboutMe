@@ -8,4 +8,15 @@ My name is Taylor. I am a student at SICTC as well as Benjerman Bosse High Schoo
 #### My name is Taylor
 ###### Pleasure to meet you
 
+Hobbies
+-
+
+My Hobbies Include
+
+-gaming
+-reading
+-airsoft
+
+
+
 Markdown Tutorial
