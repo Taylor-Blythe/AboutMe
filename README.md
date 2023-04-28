@@ -23,5 +23,8 @@ My nightime routine includes:
 2. get my clothes ready
 3. read for a while
 
+## My Philosophy
 
+*It's not about intellegence, it's all about persistance*
+_life is is easy if you just let it happen_
 Markdown Tutorial
