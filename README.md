@@ -45,10 +45,16 @@ concentrate on what <b>you</b> think matters.
 ## persons of interest
 
 [Abraham Lincoln][1]<br>
-<img src="https://github.com/Taylor-Blythe/AboutMe/blob/main/img/abe.jpg" height="100px" width="200px"><br>
+<kbd>
+<img src="https://github.com/Taylor-Blythe/AboutMe/blob/main/img/abe.jpg" height="100px" width="200px">
+  </kbd><br>
 [Elon Musk][2]<br>
-<img src="https://github.com/Taylor-Blythe/AboutMe/blob/main/img/elon.jpg" height="100px" width="200px"><br>
+<kbd>
+<img src="https://github.com/Taylor-Blythe/AboutMe/blob/main/img/elon.jpg" height="100px" width="200px">
+  </kbd><br>
 [Shohei Ohtani][3]<br>
+<kbd>
 <img src="https://github.com/Taylor-Blythe/AboutMe/blob/main/img/shouhei.jpg" height="100px" width="200px">
+  </kbd><br>
 
 Markdown Tutorial
