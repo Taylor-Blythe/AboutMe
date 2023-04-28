@@ -15,7 +15,7 @@ My Hobbies Include
 
 - gaming
 + reading
-= airsoft
+* airsoft
 
 
 
