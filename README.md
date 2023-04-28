@@ -7,7 +7,9 @@ My name is Taylor. I am a student at SICTC as well as Benjerman Bosse High Schoo
 ### Who am I
 #### My name is Taylor
 ###### Pleasure to meet you
-
+[1]: https://www.whitehouse.gov/about-the-white-house/presidents/abraham-lincoln/
+[2]: https://en.wikipedia.org/wiki/Elon_Musk
+[3]: https://www.mlb.com/player/shohei-ohtani-660271
 Hobbies
 -
 
@@ -40,5 +42,10 @@ concentrate on what <b>you</b> think matters.
 [Trinket](https://trinket.io/ "worst site ever")
 [I'm being tagged][New Home]
 
+## persons of interest
+
+[Abraham Lincoln][1]<br>
+[Elon Musk][2]<br>
+[Shohei Ohtani][3]<br>
 
 Markdown Tutorial
