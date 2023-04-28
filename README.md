@@ -2,7 +2,7 @@
 ---
 ---
 ## summary
-
+[New Home]: https://lucid.app/documents#/dashboard?folder_id=home
 My name is Taylor. I am a student at SICTC as well as Benjerman Bosse High School.
 ### Who am I
 #### My name is Taylor
@@ -38,4 +38,7 @@ concentrate on what <b>you</b> think matters.
 ## My Favorite Websites
 [MIT App Inventor](http://ai2.appinventor.mit.edu/)
 [Trinket](https://trinket.io/ "worst site ever")
+[I'm being tagged][New Home]
+
+
 Markdown Tutorial
