@@ -37,6 +37,5 @@ concentrate on what <b>you</b> think matters.
 
 ## My Favorite Websites
 [MIT App Inventor](http://ai2.appinventor.mit.edu/)
-
-[Trinket](https://trinket.io/"worst site ever")
+[Trinket](https://trinket.io/ "worst site ever")
 Markdown Tutorial
