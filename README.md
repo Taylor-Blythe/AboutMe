@@ -35,4 +35,7 @@ concentrate on what <b>you</b> think matters.
 
 <b>what are you</b> in this life?
 
+## My Favorite Websites
+[MIT App Inventor](http://ai2.appinventor.mit.edu/)
+[Trinket](https://trinket.io/"worst site ever")
 Markdown Tutorial
