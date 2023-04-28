@@ -26,5 +26,5 @@ My nightime routine includes:
 ## My Philosophy
 
 *It's not about intellegence, it's all about persistance*
-_life is is easy if you just let it happen_
+ _life is is easy if you just let it happen_
 Markdown Tutorial
