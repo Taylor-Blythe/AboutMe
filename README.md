@@ -25,14 +25,14 @@ My nightime routine includes:
 
 ## My Philosophy
 
-*It's not about intellegence, it's all about persistance*
+<i>It's not about intellegence, it's all about persistance</i>
 
-_life is is easy if you just let it happen_
+<i>life is is easy if you just let it happen</i>
 
 ## Favorite Quotes
 
-concentrate on what **you** think matters.
+concentrate on what <b>you</b> think matters.
 
-__what are you__ in this life?
+<b>what are you</b> in this life?
 
 Markdown Tutorial
