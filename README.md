@@ -49,6 +49,6 @@ concentrate on what <b>you</b> think matters.
 [Elon Musk][2]<br>
 <img src="elon.jpg" height="100px" width="200px"><br>
 [Shohei Ohtani][3]<br>
-<img src="webp" height="100px" width="200px">
+<img src="shouhei.webp" height="100px" width="200px">
 
 Markdown Tutorial
