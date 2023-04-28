@@ -47,6 +47,6 @@ concentrate on what <b>you</b> think matters.
 [Abraham Lincoln][1]<br>
 [Elon Musk][2]<br>
 [Shohei Ohtani][3]<br>
-![Abe](https://github.com/Taylor-Blythe/AboutMe/blob/main/img/download.jpg)
+<img src="file path" height="000px" width="000px"(https://github.com/Taylor-Blythe/AboutMe/blob/main/img/download.jpg)>
 
 Markdown Tutorial
